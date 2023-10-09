@@ -1,0 +1,131 @@
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background: linear-gradient(100deg, rgba(8,10,48,0.9) 0%, rgba(36,40,98,0.9) 120%) !important; 
+}
+
+.GHoHl .desktop-icon {
+    width: 100px !important;
+}
+img.sc-jtiXyc.fykdwr {
+    border-radius: 100% !important;
+}
+svg.sc-jtiXyc.fykdwr {
+    background-image: url('Images/coins/rydeswap.png');
+    background-size: cover !important;
+    border-radius: 100% !important;
+    width: 25px;
+    height: 25px;
+}
+svg.sc-jtiXyc.fykdwr path {
+  display: none !important;
+}
+svg.sc-jtiXyc.fykdwr circle {
+  fill: none !important;
+  display: none !important;
+}
+
+.jThiJb,
+.kWBNme,
+.ekSwWn,
+.cuYgCy,
+.ketyFG,
+.fuYPls
+ {
+    background-color: #FF06B7 !important;
+}
+.iksmNG,
+.jgdggm,
+.ctHGer {
+    border: 1px solid #FF06B7 !important;
+   
+}
+
+.sc-csTbgd.kglWtV {
+    background-color: #242862 !important;
+}
+.cmzmly {
+    background-color: #131740 !important;
+
+}
+.sc-gIvpjk.sc-fHCHyC.sc-ikXwFM.sc-jLqRGG.gfHWTq.kJMrwY.dXMJEr.hsXuOD {
+    background-color: #131740 !important;
+}
+
+.sc-gIvpjk:hover {
+    background-color: #242862 !important;
+
+}
+.jQUdrb,
+.jydDcT {
+    background-color: #242862 !important;
+}
+.sc-gtsrHT.bXRLrE:hover {
+    /* background-color: #131740 !important; */
+}
+.sc-gtsrHT.bXRLrE {
+    /* background-color: #242862 !important; */
+}
+
+
+
+.koCxyi,
+.bectNN,
+.bHahYZ,
+.jYIbMH,
+.cjqBca,
+.iGDXsh,
+.kiLXoh {
+    background-color: #242862 !important;
+}
+
+.lmWuHZ {
+    background-color: #131740 !important;
+}
+.keanWD:focus, .keanWD:hover {
+    /* background-color: #242862 !important; */
+}
+button.sc-bShgHC.keanWD.open-currency-select-button {
+    background-color: #242862 !important;
+}
+button.sc-bShgHC.knJbFD.open-currency-select-button {
+    background-color: #242862 !important;
+}
+.jgdggm {
+    background-color: #242862 !important;
+}
+.iAofmU {
+
+    background-color: #242862 !important;
+}
+
+.bNYyVk {
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+}
+.eDqUgZ {
+    background-color: #131740 !important;
+}
+
+.ctHGer {
+    background-color: #131740 !important;
+
+}
+.mUxfK {
+    padding-top: 50px;  
+}
+a.sc-hOPeYd.eXirsP {
+    font-size: 2rem !important;
+}
+
+
+@media (max-width: 425px) {
+    .ekSwWn {
+    
+        font-size: 13px;
+    }
+    a.sc-hOPeYd.eXirsP {
+        font-size: 1rem !important;
+    }
+   
+}
